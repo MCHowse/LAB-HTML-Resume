@@ -1,0 +1,57 @@
+body{
+  background-color:palevioletred;
+  color: black
+  text-align: left;
+}
+
+h1{
+  font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playwrite+AU+NSW:wght@100..400&display=swap" rel="stylesheet">;
+  text-align: center;
+}
+
+.phoneNumber{
+  text-align: center;
+  
+}
+
+.emailAddress{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  color: blue
+}
+
+#job1{
+  font-family: 'Courier New', Courier, monospace; 
+  text-align: left;
+  border: solid blueviolet;
+  border-width: 15px;
+}
+
+#job2{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  border: dotted darkgreen;
+  border-width: medium;
+}
+
+#job3{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: left;
+  border: double black;
+  border-width: thick;
+}
+
+#job4{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+  border: dashed black; 
+  border-width: 10px 20px;
+}
